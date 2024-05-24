@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Time complexity: O(n^2)
 public class SelectionSort {
     public static void main(String[] args) {
         try (Scanner scan = new Scanner(System.in)) {

@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Time complexity : O(n*log(n))
 public class QuickSort {
     public static void main(String[] args) {
         try (Scanner scan = new Scanner(System.in)) {
